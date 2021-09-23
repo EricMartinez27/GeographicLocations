@@ -1,0 +1,12 @@
+C:\Users\LTI\geographicApp\libraryProject\bin\Debug\net5.0\libraryProject.deps.json
+C:\Users\LTI\geographicApp\libraryProject\bin\Debug\net5.0\libraryProject.dll
+C:\Users\LTI\geographicApp\libraryProject\bin\Debug\net5.0\ref\libraryProject.dll
+C:\Users\LTI\geographicApp\libraryProject\bin\Debug\net5.0\libraryProject.pdb
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.csproj.AssemblyReference.cache
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.AssemblyInfoInputs.cache
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.AssemblyInfo.cs
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.csproj.CoreCompileInputs.cache
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.dll
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\ref\libraryProject.dll
+C:\Users\LTI\geographicApp\libraryProject\obj\Debug\net5.0\libraryProject.pdb
